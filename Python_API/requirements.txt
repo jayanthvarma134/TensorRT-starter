@@ -1,0 +1,14 @@
+numpy==1.22.3
+nvidia-cublas==11.5.1.101
+nvidia-cuda-nvrtc==11.1.105
+nvidia-cuda-runtime==11.3.58
+nvidia-cudnn==8.2.0.51
+nvidia-pyindex==1.0.9
+nvidia-tensorrt==7.2.2.3
+onnx==1.11.0
+onnxruntime-gpu==1.10.0
+Pillow==9.0.1
+pycuda==2020.1
+requests==2.27.1
+torch==1.10.0+cu111
+torchvision==0.11.1+cu111
